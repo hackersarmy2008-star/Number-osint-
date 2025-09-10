@@ -30,6 +30,9 @@ chmod +x number-osint.py
 # 5. Run the tool
 python3 number-osint.py
 
+```
+### 🔹android termux 
+```bash
 # 1. Update Termux
 pkg update -y && pkg upgrade -y
 
@@ -47,3 +50,5 @@ pip install phonenumbers requests
 
 # 6. Run the tool
 python number-osint.py
+```
+stay ethical 
